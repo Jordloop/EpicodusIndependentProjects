@@ -10,7 +10,7 @@ This table contains information about my independent projects.
 | Intro | 4-28-2017 | [Track-Suggester](https://github.com/Jordloop/Track-Suggester) |
 | Intro | 5-5-2017 | [Project-Ping-Pong](https://github.com/Jordloop/Project-Ping-Pong) |
 | Intro | 5-12-17 | [Project-Pizza](https://github.com/Jordloop/Project-Pizza) |
-| Intro | 5-19-2017 | [Campsite](ttps://github.com/Jordloop/Campsite) |
+| Intro | 5-19-2017 | [Campsite](https://github.com/Jordloop/Campsite) |
 | C# | 5-26-2017 | [Project-Address-Book](https://github.com/Jordloop/Project-Address-Book) |
 | C# | 8-2-17 | [Project Word Counter](https://github.com/Jordloop/Project-Word-Counter) |
 | C# | 6-9-2017 | [Project-Hair-Salon](https://github.com/Jordloop/Project-Hair-Salon) |
