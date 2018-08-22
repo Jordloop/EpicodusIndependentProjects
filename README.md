@@ -2,7 +2,7 @@
 <br>
 
 Each Friday I was allotted eight hours to independently complete a project based on specifications <br> provided by my instructor. 
-Ts table contains information on my independent projects.
+This table contains information about my independent projects.
 # Epicodus Independent Projects
 ###### **Sorted by date*
 | Course        | Date           | Repo  |
