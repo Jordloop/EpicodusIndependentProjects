@@ -1,7 +1,7 @@
 <br>
 <br>
 
-Each Friday I was allotted eight hours to independently complete a project based on specifications <br> provided by my instructor. 
+Each Friday, I was allotted eight hours to independently complete a project based on specifications <br> provided by my instructor. 
 This table of repositories is sorted by date to showcase my development over time.
 # Epicodus Independent Projects
 ###### **Sorted by date*
